@@ -1,0 +1,5 @@
+/test/rknnNet_alphapose_cpp/examples/rknn_alphapose_demo/install/rknn_alphapose_demo_Android/./rknn_alphapose_demo
+/test/rknnNet_alphapose_cpp/examples/rknn_alphapose_demo/install/rknn_alphapose_demo_Android/.//model/landmark_test_resized.jpg
+/test/rknnNet_alphapose_cpp/examples/rknn_alphapose_demo/install/rknn_alphapose_demo_Android/.//model/alphapose.rknn
+/test/rknnNet_alphapose_cpp/examples/rknn_alphapose_demo/install/rknn_alphapose_demo_Android/lib/librknn_api.so
+/test/rknnNet_alphapose_cpp/examples/rknn_alphapose_demo/install/rknn_alphapose_demo_Android/lib/librknnrt.so
